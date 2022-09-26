@@ -1,2 +1,2 @@
-# dit-learning
+# git-learning
 текстовый репозиторий для изучения git
